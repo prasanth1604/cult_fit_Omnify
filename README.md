@@ -50,18 +50,23 @@ open terminal and type
 ```
 git clone https://github.com/prasanth1604/cult_fit_Omnify.git
 ```
+```
+cd cult_fit_omnify
+```
 
 #### Requirements
-
-```
-cd cultfit
-```
 
 To install requirements type
 
 ```
 pip install -r requirements.txt
 ```
+
+Navigate to main folder
+```
+cd cultfit
+```
+
 
 To migrate the database open terminal in project directory and type
 
